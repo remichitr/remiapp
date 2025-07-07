@@ -1,0 +1,31 @@
+[
+  {
+    "id": "com.rockstargames.bully",
+    "name": "Bully Anniversary Edition",
+    "version": "1.4.299",
+    "tags": "Aksiyon, RPG",
+    "icon": "https://www.turkmmo.com/wp-content/uploads/2022/01/Bully-Sistem-Gereksinimleri-Neler-Bully-2-Cikacak-Mi.jpg",
+    "translator": "Remi",
+    "coin": "50",
+    "size": "2,8G",
+    "translatedFile": "8",
+    "totalFile": "50",
+    "isExpanded": "false",
+    "extra": "Bazı hatalar yüzünden çeviri başlamadı.."
+  },
+{
+  "id": "com.telltalegames.walkingdead100",
+  "name": "The Walking Dead S1",
+  "version": "4.5.0",
+  "tags": "Telltale, Hayatta Kalma, Gerilim",
+  "icon": "https://ipaomtk.com/wp-content/uploads/2024/03/Walking-Dead-The-Game.jpg",
+  "translator": "miHoYo",
+  "coin": "300",
+  "size": "3.4G",
+  "translatedFile": "60",
+  "totalFile": "100",
+  "isExpanded": "false",
+  "extra": ""
+}
+
+  ]
