@@ -1,0 +1,39 @@
+[
+  {
+    "id": "com.rockstargames.bully",
+    "name": "Bully Anniversary Edition",
+    "version": "1.4.299",
+    "tags": "Aksiyon, RPG",
+    "icon": "https://www.turkmmo.com/wp-content/uploads/2022/01/Bully-Sistem-Gereksinimleri-Neler-Bully-2-Cikacak-Mi.jpg",
+    "shortdescription": "🎮 Bully: Anniversary Edition – Tamamen Türkçe, 30-60 FPS seçenekli!",
+"longdescription": "Rockstar Games’in klasik yapımı Bully: Anniversary Edition, Türk oyuncular için özel olarak optimize edildi. Bu sürüm, %100 Türkçe dil desteği, FPS (30/60) seçenekleri ve geliştirilmiş başlangıç avantajlarıyla geliyor.\n\nÖne Çıkan Özellikler:\n- Tamamen Türkçeye çevrilmiş oyun içeriği (diyaloglar, görevler, menüler ve sahneler)\n- 30 FPS ve 60 FPS arasında geçiş yapma imkanı\n  ⚠️ Bazı görevlerde hatasız oynanış için 30 FPS önerilir\n- Oyun başlangıcında belirli miktarda para avantajı\n- Android 6.0 ve üzeri cihazlarla uyumlu\n- Hızlı ve kolay yama kurulumu\n\nGereksinimler: Android 6.0 veya üzeri\nNot: Bu içerik yalnızca Bully: Anniversary Edition Android sürümü için geliştirilmiştir. Farklı sürümlerle uyumlu olmayabilir.\n\nÇeviri ve teknik geliştirmeler: Remi",
+    "translator": "Remi",
+    "downloadUrl": "https://example.com/downloads/spacewar.apk",
+    "image1": "https://image.winudf.com/v2/image/Z3VpZGV0aXBzLmJ1bGx5LmJ1bGx5YW5uaXZlcnNhcnlfc2NyZWVuXzJfMTUyMzIyMzg0M18wODQ/screen-2.jpg?fakeurl=1&type=.jpg",
+    "image2": "https://2.bp.blogspot.com/-Bq9I7D8NXAE/W2QS51Ing6I/AAAAAAAAAT8/a4IZvRWlfIsaR8ZmC5aJmiIRJvd6FXpJgCLcBGAs/s1600/Screenshot_2016-12-14-17-19-59.png",
+    "image3": "https://1.bp.blogspot.com/-uK_oA3-bxEU/WFIdeu14UpI/AAAAAAAAALQ/5oliiKvTOXQ19UYdn7gE2Resgk6iKjR5ACLcB/s1600/Screenshot_2016-12-15-11-16-53-433_com.rockstargames.bully.png",
+    "image4": "https://rockstargame.su/wp-content/uploads/2017/11/bully-android.png",
+    "image5": "https://2.bp.blogspot.com/-qeZuFXwPvzU/W8V3dN1QLCI/AAAAAAAABoQ/d1QGsu0xBYkb4fzXiP36mC6jE6PGrwKWgCLcBGAs/s1600/Screenshot_2018-10-16-07-55-23-242_com.rockstargames.bully.png",
+    "coin": "50",
+    "size": "2,8G"
+  },
+{
+  "id": "com.telltalegames.walkingdead100",
+  "name": "The Walking Dead S1",
+  "version": "4.5.0",
+  "tags": "Telltale, Hayatta Kalma, Gerilim",
+  "icon": "https://ipaomtk.com/wp-content/uploads/2024/03/Walking-Dead-The-Game.jpg",
+  "shortdescription": "🌍 Açık dünya aksiyon RPG – Siyah Vortex, Element Savaşı ve Türkçe alt yazı desteği!",
+  "longdescription": "miHoYo’nun ödüllü açık dünya oyunu Genshin Impact artık tamamen Türkçe alt yazılı destekle! Oyuncular, özgür keşif, elemental dövüş sistemi ve derin görevlerle Teyvat’ın büyülü coğrafyalarında maceraya davet ediliyor.\n\nÖne Çıkan Özellikler:\n- Türkçe altyazı desteği (menüler ve diyaloglar)\n- Geniş açık dünya ve kurgusal ülkeler\n- Eleman tabanlı takım savaşı sistemi\n- Online co‑op modu (4 oyuncuya kadar)\n- Düzenli güncellemeler ve yeni karakterler\n- Android 8.0 ve üzeri cihazlarla uyumlu\n\nGereksinimler: Android 8.0 veya üzeri\nNot: Bu sürüm mobil için optimize edilmiştir.\n\nÇeviri ve teknik destek: miHoYo",
+  "translator": "miHoYo",
+  "downloadUrl": "https://apkpure.com/tr/genshin-impact/com.miHoYo.GenshinImpact",
+  "image1": "https://img.bolumsonucanavari.com/images/news/36248_600x338.jpg",
+  "image2": "https://anthonythomas.io/wp-content/uploads/2016/01/TheWalkingDead.jpg",
+  "image3": "https://e3.365dm.com/16/07/2048x1152/the-walking-dead-lee-1_3686289.jpg?20160706131106",
+  "image4": "https://m.media-amazon.com/images/M/MV5BZWY4OWQ2YzYtOGIxMS00NTk1LTljMDYtYWM0NjZkY2RmMDAwXkEyXkFqcGc@._V1_.jpg",
+  "image5": "https://steamuserimages-a.akamaihd.net/ugc/1994561426754682005/41ABD35DD3F05F9E001FF12D5EB84579859234A5/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+  "coin": "300",
+  "size": "3.4G"
+}
+
+  ]
