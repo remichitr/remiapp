@@ -4,6 +4,6 @@
     "youtube": "https://youtube.com/@remichitr?si=XJ-UUkQFKSxWP7oE",
     "version": "1.4.299",
     "update": "no",
-    "is_beta_active": faalse
+    "is_betaActive": false
   }
 ]
