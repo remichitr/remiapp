@@ -1,0 +1,33 @@
+[
+  {
+    "id": "com.rockstargames.bully",
+    "name": "Bully Anniversary Edition",
+    "icon": "https://www.turkmmo.com/wp-content/uploads/2022/01/Bully-Sistem-Gereksinimleri-Neler-Bully-2-Cikacak-Mi.jpg",
+    "translator": "Remi",
+    "translatedFile": "0",
+    "totalFile": "50",
+    "isExpanded": "false",
+    "extra": "Bazı hatalar yüzünden çeviri başlamadı.."
+  },
+{
+  "id": "com.telltalegames.walkingdead100",
+  "name": "The Walking Dead S1",
+  "icon": "https://ipaomtk.com/wp-content/uploads/2024/03/Walking-Dead-The-Game.jpg",
+  "translator": "miHoYo",
+  "translatedFile": "60",
+  "totalFile": "100",
+  "isExpanded": "false",
+  "extra": ""
+  },
+{
+  "id": "com.telltalegames.walkingdead200",
+  "name": "The Walking Dead S2",
+  "icon": "https://ipaomtk.com/wp-content/uploads/2024/03/Walking-Dead-The-Game.jpg",
+  "translator": "miHoYo",
+  "translatedFile": "100",
+  "totalFile": "100",
+  "isExpanded": "false",
+  "extra": ""
+}
+
+  ]
