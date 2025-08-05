@@ -1,6 +1,7 @@
 [
   {
     "file_number": 1,
+    "board_game": "com.bully",
     "will_edit": false,
     "under_edit": false,
     "version": "1.0",
