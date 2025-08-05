@@ -1,33 +1,22 @@
 [
   {
-    "id": "com.rockstargames.bully",
-    "name": "Bully Anniversary Edition",
-    "icon": "https://www.turkmmo.com/wp-content/uploads/2022/01/Bully-Sistem-Gereksinimleri-Neler-Bully-2-Cikacak-Mi.jpg",
+    "id": "com.telltalegames.fables100",
+    "name": "The Wolf Among Us",
+    "icon": "https://play-lh.googleusercontent.com/NfewrWLRFYmCsBTR3cZs4PcO18chz8H4H1dhZ0OsnKYl4ld2rtOZHIZ-FUTRpTfQylU=w480-h960-rw",
     "translator": "Remi",
-    "translatedFile": "0",
-    "totalFile": "50",
+    "translatedFile": "1",
+    "totalFile": "100",
     "isExpanded": "false",
-    "extra": "Bazı hatalar yüzünden çeviri başlamadı.."
+    "extra": "Çeviri başladı.."
   },
 {
-  "id": "com.telltalegames.walkingdead100",
-  "name": "The Walking Dead S1",
-  "icon": "https://ipaomtk.com/wp-content/uploads/2024/03/Walking-Dead-The-Game.jpg",
-  "translator": "miHoYo",
-  "translatedFile": "60",
+  "id": "com.telltalegames.minecraft100",
+  "name": "Minecraft Story Mode",
+  "icon": "https://apkvision.org/wp-content/uploads/2017/09/10362-140x140.jpg",
+  "translator": "Remi",
+  "translatedFile": "0",
   "totalFile": "100",
   "isExpanded": "false",
-  "extra": ""
-  },
-{
-  "id": "com.telltalegames.walkingdead200",
-  "name": "The Walking Dead S2",
-  "icon": "https://ipaomtk.com/wp-content/uploads/2024/03/Walking-Dead-The-Game.jpg",
-  "translator": "miHoYo",
-  "translatedFile": "100",
-  "totalFile": "100",
-  "isExpanded": "false",
-  "extra": ""
-}
-
+  "extra": "Çeviri henüz başlamadı.."
+  }
   ]
