@@ -4,6 +4,8 @@
     "board_game": "com.rockstargames.bully",
     "will_edit": false,
     "under_edit": false,
+    "app_icon": "",
+    "game_name": "Remichi",
     "version": "1.0",
     "new_link": "deneme"
   }
