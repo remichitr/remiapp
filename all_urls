@@ -4,6 +4,7 @@
     "NEXT_GAMES_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/next_games",
     "TEST_GAMES_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/test_games",
     "SETTINGS_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/app_settings",
+    "SOCIAL_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/app_social",
     "BETA_USERS_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/tester_ids"
   }
 ]
