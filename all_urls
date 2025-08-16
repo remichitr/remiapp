@@ -6,6 +6,7 @@
     "SETTINGS_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/app_settings",
     "UPDATE_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/update_app",
     "SOCIAL_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/app_social",
-    "BETA_USERS_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/tester_ids"
+    "BETA_USERS_URL": "https://raw.githubusercontent.com/remichitr/remiapp/refs/heads/main/tester_ids",
+    "GAME_DATAS": "https://raw.githubusercontent.com/remichitr/remiapp_games/refs/heads/main/"
   }
 ]
