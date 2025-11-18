@@ -2,7 +2,7 @@
   {
     "file_number": 2,
     "board_game": "com.rockstargames.bully",
-    "will_edit": true,
+    "will_edit": false,
     "under_edit": true,
     "version": "1.0"
    }
