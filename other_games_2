@@ -66,9 +66,9 @@
     "game_icon": "https://play-lh.googleusercontent.com/XDbml9kNG4ziL-K0eINJ_l5iLsyuj35QOG16gFToTgvZkew_mTDa5Um4uqoBsGaCXbI=w480-h960-rw"
   },
   {
-    "id": "com.telltale.walkingdeadanewfrontier100",
+    "id": "com.telltalegames.walkingdead300",
     "app_name": "The Walking Dead: A New Frontier",
-    "developer_name": "Telltale",
+    "developer_name": "Skybound Game Studios, Inc",
     "game_size": "3,1 GB",
     "version": "1.02",
     "file_size": 198765432,
@@ -101,7 +101,7 @@
   {
     "id": "com.telltale.walkingdeadmichonne",
     "app_name": "The Walking Dead: Michonne",
-    "developer_name": "Telltale",
+    "developer_name": "Skybound Game Studios, Inc",
     "game_size": "1,8 GB",
     "version": "1.01",
     "file_size": 95123456,
